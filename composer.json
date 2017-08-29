@@ -3,7 +3,7 @@
     "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
     "keywords": ["log", "logging", "psr-3"],
     "homepage": "http://github.com/Seldaek/monolog",
-    "type": "library",
+    "type": "pm-plugin",
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,8 @@
     ],
     "require": {
         "php": "^7.0",
-        "psr/log": "^1.0.1"
+        "psr/log": "^1.0.1",
+        "composer/installers": "~1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7",
