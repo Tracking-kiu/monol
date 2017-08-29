@@ -1,8 +1,8 @@
 {
-    "name": "monolog/monolog",
+    "name": "monol/monol",
     "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
     "keywords": ["log", "logging", "psr-3"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/Tracking-kiu/monol",
     "type": "pm-plugin",
     "license": "MIT",
     "authors": [
