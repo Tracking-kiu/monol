@@ -58,7 +58,7 @@
             "dev-master": "2.0.x-dev"
         },
         "installer-paths":{
-            "./monol/": ["monol/monol"]
+            "wp-content/themes/{$name}/": ["type:pm-plugin"]
         }
     },
     "scripts": {
