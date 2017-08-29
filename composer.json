@@ -56,6 +56,9 @@
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.x-dev"
+        },
+        "installer-paths":{
+            "./monol/": ["monol/monol"]
         }
     },
     "scripts": {
